@@ -33,6 +33,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="I Love You Farah" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dinda i miss you so much" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
