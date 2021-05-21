@@ -38,7 +38,7 @@
             android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="I Love Ganyu" />
+            android:text="I Love Farah chan" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
